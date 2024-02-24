@@ -1,0 +1,22 @@
+* {
+  margin: 10px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.score > strong {
+  padding: 10px;
+}
+
+.display {
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.winner {
+  font-size: 30px;
+}
